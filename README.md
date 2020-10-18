@@ -1,5 +1,7 @@
 # LeetCode Daily
-App that provides a leet code question every day
+App that provides a leet code question every day.
+
+<img src="https://imgur.com/ObWXNcO.gif " width="298" height="640" />
 
 ## How to start
 ### Android
@@ -16,8 +18,8 @@ Open the app :)
 On app start, a random leetcode question is provided. Selecting **Pick One** will provide another random question. Enjoy solving puzzles at your leisure.
 
 ### Explore different puzzles
-Filters and wide varieties of questions available
+Filters and wide varieties of questions available.
 
 ## TODO
-- Customizable Notifications
 - Export for iOS
+- Customizable Notifications
