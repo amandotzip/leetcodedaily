@@ -1,0 +1,14 @@
+{
+  "name": "leetcodedaily",
+  "displayName": "LeetCode Daily",
+  "expo": {
+    "name": "leetcodedaily",
+    "slug": "leetcodedaily",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "sdkVersion": "39.0.0",
+    "entryPoint": ".vscode\\exponentIndex.js"
+  }
+}

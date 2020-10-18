@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        
+        {
+            "name": "React Native Direct: Attach to the React Native Hermes - Experimental",
+            "cwd": "${workspaceFolder}",
+            "type": "reactnativedirect",
+            "request": "attach"
+        },
+     
+
+        
+        
+        
+   
+    ]
+}
