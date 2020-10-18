@@ -1,7 +1,7 @@
 # LeetCode Daily
 App that provides a leet code question every day.
 
-<img src="https://imgur.com/ObWXNcO.gif " width="298" height="640" />
+<img src="demo.gif?raw=true" width="298px">
 
 ## How to start
 ### Android
