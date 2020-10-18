@@ -12,10 +12,10 @@ Run the apk on your device. You may get a security warning, as potentially malic
 Open the app :)
 
 
-## Solve problems
+### Solve problems
 On app start, a random leetcode question is provided. Selecting **Pick One** will provide another random question. Enjoy solving puzzles at your leisure.
 
-## Explore different puzzles
+### Explore different puzzles
 Filters and wide varieties of questions available
 
 ## TODO
